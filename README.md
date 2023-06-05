@@ -18,4 +18,4 @@ Ex. "Process 2 is waiting for a resource blocked by process 3".
 Process id MUST NOT exceed the value of the number of processes. See example dataset in the documentation.
 
 ## Code coments
-For a better understanding of the code I recomend start reviewing it starting from the main method inside the Node.java file
+For a better understanding of the code I recomend start reviewing it starting from the main method inside the MitchellMerritt.java file
