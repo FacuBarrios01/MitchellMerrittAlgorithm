@@ -1,4 +1,4 @@
-Number of process: 6
+Number of processes: 6
 1 0 0 0 0 0
 1 0 1 0 0 0
 0 1 0 0 0 0

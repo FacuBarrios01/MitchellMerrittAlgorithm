@@ -17,11 +17,11 @@ public class Process{
         this.publicId = id;
     }
 
-    public void getPublicId(){
+    public int getPublicId(){
         return this.publicId;
     }
 
-    public void getPrivateId(){
+    public int getPrivateId(){
         return this.privateId;
     }
 }
